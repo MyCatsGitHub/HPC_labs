@@ -8,4 +8,8 @@ https://colab.research.google.com/drive/1ZqXr3pPbuY3i9RzlOiS1ZsD5UIromGW7?usp=sh
 | 240*320                  |           10.78        | 0.0071                 | 1513      |
 | 630*930                  |  82.37                 | 0.04                   | 2031      |
 
-![test](https://github.com/MyCatsGitHub/HPC_labs/blob/main/Bilateral%20filtering/sharikov%20blur.png?raw=true)
+Изображение до обработки
+![without blur](https://github.com/MyCatsGitHub/HPC_labs/blob/main/Bilateral%20filtering/sharikov%20no%20blur.png?raw=true)
+
+Изображение после обработки
+![with blur](https://github.com/MyCatsGitHub/HPC_labs/blob/main/Bilateral%20filtering/sharikov%20blur.png?raw=true)
