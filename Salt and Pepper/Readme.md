@@ -18,7 +18,7 @@ https://colab.research.google.com/drive/1oyFpimHmxGqnhHNxnPE9LvAbb0xBokrw?usp=sh
 ![до обработки](https://github.com/MyCatsGitHub/HPC_labs/raw/main/Salt%20and%20Pepper/peppe%20gray.bmp)
 
 Изображение после добавления шумов
-![с шумами](https://github.com/MyCatsGitHub/HPC_labs/raw/main/Salt%20and%20Pepper/peppe%20noise.bmp)
+![с шумами](https://github.com/MyCatsGitHub/HPC_labs/raw/main/Salt%20and%20Pepper/peppe%20gray%20noised.bmp)
 
 Изображение после обработки
 ![обработанное](https://github.com/MyCatsGitHub/HPC_labs/raw/main/Salt%20and%20Pepper/filtered%20peppe.bmp)
