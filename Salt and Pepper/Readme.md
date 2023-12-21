@@ -10,3 +10,15 @@ https://colab.research.google.com/drive/1oyFpimHmxGqnhHNxnPE9LvAbb0xBokrw?usp=sh
 |  630*930                 | 12.47                  | 0.000214                    | 0.0020                 | 6172                      |0.1059                  |
 | 1440 * 1440              | 43.003                 |0.0024                     |  0.0044                 |  9638                      | 0.5431               |
 | 2400*2400                | 96.934                |  0.0043                     | 0.0083               |   11677                     | 0.5235                |
+
+
+
+
+Изображение до обработки
+![до обработки](https://github.com/MyCatsGitHub/HPC_labs/raw/main/Salt%20and%20Pepper/peppe%20gray.bmp)
+
+Изображение после добавления шумов
+![с шумами](https://github.com/MyCatsGitHub/HPC_labs/raw/main/Salt%20and%20Pepper/peppe%20noise.bmp)
+
+Изображение после обработки
+![обработанное](https://github.com/MyCatsGitHub/HPC_labs/raw/main/Salt%20and%20Pepper/filtered%20peppe.bmp)
